@@ -31,3 +31,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: jualmi/jmusicbot:latest
+          
