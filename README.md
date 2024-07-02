@@ -5,4 +5,4 @@
 
 A containerized version of the [JMusicBot by jagrosh](https://github.com/jagrosh/MusicBot).
 
-Original Docker Image from [craumix][https://github.com/jagrosh/MusicBot](https://github.com/Craumix/jmb-container).
+Original Docker Image from [craumix](https://github.com/Craumix/jmb-container).
